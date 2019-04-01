@@ -4,4 +4,4 @@ veritabaný=mysql.connector.connect(#baðlantý için connetct içinde host,user,pass
     host="localhost",
     user="kullanýcý adýn",
     passwd="kullanýcý þifren"
-)
+) 
